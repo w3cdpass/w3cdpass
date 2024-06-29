@@ -21,9 +21,10 @@ Currently, I'm diving into:
 
 Here are some of the projects I've been working on:
 
-1. **Project 1** - Brief description of Project 1.
-2. **Project 2** - Brief description of Project 2.
-3. **Project 3** - Brief description of Project 3.
+1. [![Insurance Charges Prediction](https://img.shields.io/badge/-Insurance%20Charges%20Prediction-3776AB?style=flat&logo=github)](https://github.com/w3cdpass/Insurance-Charges-prediction/tree/master) - Predicts insurance charges based on health data.
+2. [![Native LanToEng](https://img.shields.io/badge/-Native%20LanToEng-3776AB?style=flat&logo=github)](https://github.com/w3cdpass/Native-LanToEng) - Converts native language to English.
+3. [![Data-driven Prediction](https://img.shields.io/badge/-Data--driven%20Prediction-3776AB?style=flat&logo=github)](https://github.com/w3cdpass/Data-driven-Prediction) - Implements various machine learning algorithms.
+
 
 Feel free to check out my repositories for more details.
 

@@ -13,6 +13,11 @@ Currently, I'm diving into:
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/) 
 [![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)](https://www.rust-lang.org/)
 
+
+# I am working on:
+
+[![Algorithms to Life](https://img.shields.io/badge/-Algorithms%20to%20Life-3776AB?style=flat&logo=github)](https://github.com/w3cdpass/algorithms-to-life) - Demonstrates various machine learning algorithms with real-life examples.
+
 ## Pronouns
 
 - **His/Him**
